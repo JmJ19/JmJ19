@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Working on school stuff.
+
 <!--
 **JmJ19/JmJ19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
